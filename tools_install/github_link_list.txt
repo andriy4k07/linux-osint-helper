@@ -1,0 +1,15 @@
+https://github.com/soxoj/maigret.git
+https://github.com/cea-sec/usbsas.git
+https://github.com/ThoughtfulDev/EagleEye.git
+https://github.com/bluet/proxybroker2.git
+https://github.com/Yariya/Zmap-ProxyScanner.git
+https://github.com/malwaredllc/byob.git
+https://github.com/danialhalo/SqliSniper.git
+https://github.com/lk-geimfari/mimesis.git
+https://github.com/Owloops/updo.git
+https://github.com/iudicium/pryingdeep.git
+https://github.com/digitalshadows/orca.git
+https://github.com/snooppr/snoop.git
+https://github.com/hacksider/Deep-Live-Cam.git
+https://github.com/k4m4/kickthemout.git
+https://github.com/proseltd/Telepathy-Community.git

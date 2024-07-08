@@ -1,0 +1,15 @@
+Maigret (https://github.com/soxoj/maigret) is a fork of the well-known Sherlock utility by @soxoj for searching for usernames on social networks and various websites.
+Usbsas is a tool for securely reading information from unreliable USB drives.
+EagleEye is an OSINT module that allows you to find people on social networks by photo and assumed name.
+ProxyBroker is an open-source tool that asynchronously finds public proxies from multiple sources and verifies them in parallel.
+Zmap-ProxyScanne is a fast and secure way to find proxy servers. Find 2000-5000 working http, socks4, socks5 proxies in one scan.
+Build-your-own-botnet - An open source framework for creating your own botnets
+SqliSniper - A robust Python tool designed to detect time-based blind SQL injections in HTTP request headers. 
+Mimesis is a tool for generating fake data in large quantities.
+Updo is a website performance monitoring tool. It provides real-time metrics on website health, response time, and more.
+Prying Deep is a tool for collecting information on the darknet.
+Orca is a framework for targeted OSINT.
+Snoop is one of the most promising OSINT tools for finding nicknames.
+Deep Live Cam is a tool for real-time face replacement and video digitization using only one image.
+KickThemOut - a tool that allows you to disconnect devices from the WiFi network and use all the bandwidth for yourself.
+Telepathy-Community is an OSINT tool for researching chats on Telegram. 
