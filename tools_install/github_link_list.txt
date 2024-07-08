@@ -13,3 +13,4 @@ https://github.com/snooppr/snoop.git
 https://github.com/hacksider/Deep-Live-Cam.git
 https://github.com/k4m4/kickthemout.git
 https://github.com/proseltd/Telepathy-Community.git
+https://www.github.com/FluxionNetwork/fluxion.git

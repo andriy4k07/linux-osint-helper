@@ -13,3 +13,4 @@ Snoop is one of the most promising OSINT tools for finding nicknames.
 Deep Live Cam is a tool for real-time face replacement and video digitization using only one image.
 KickThemOut - a tool that allows you to disconnect devices from the WiFi network and use all the bandwidth for yourself.
 Telepathy-Community is an OSINT tool for researching chats on Telegram. 
+Fluxion is a security auditing and social-engineering research tool.
